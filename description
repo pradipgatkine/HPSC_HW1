@@ -1,0 +1,52 @@
+Specifications of the computer:
+Quad core Intel I5 processor
+Running Ubuntu through a Live USB (4GB)
+Primary Memory: 4GB
+
+Serial code Characteristics:
+value of N 		Time taken(s)
+100                      0.02
+200			 0.07 
+400			 0.57
+600			 2
+800			 5.37
+820			 7.66
+
+OpenMP code Characteristics: (2 threads)
+value of N 		Time taken(s)
+100                      0.01
+200			 0.08 
+400			 0.61
+600			 2.15
+800			 5.7
+820			 7.39
+
+OpenMP code Characteristics: (4threads)
+value of N 		Time taken(s)
+100                      0.03
+200			 0.16 
+400			 1.19
+600			 4.24
+800			 10.89
+820			 12.61
+
+OpenMP code Characteristics: (8threads)
+value of N 		Time taken(s)
+100                      0.04
+200			 0.15 
+400			 1.2
+600			 4.22
+800			 10.61
+820			 11.65
+
+OpenMP code Characteristics: (16threads)
+value of N 		Time taken(s)
+100                      0.02
+200			 0.14 
+400			 1.22
+600			 4.24
+800			 10.66
+820			 11.73
+
+
+
