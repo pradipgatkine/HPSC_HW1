@@ -3,6 +3,8 @@ Quad core Intel I5 processor
 Running Ubuntu through a Live USB (4GB)
 Primary Memory: 4GB
 
+It gives Segmentation Fault if N>820. Hence restricted N to 820.
+
 Serial code Characteristics:
 value of N 		Time taken(s)
 100                      0.02
